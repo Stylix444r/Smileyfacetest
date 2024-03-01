@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  font-size: 100px;
+  color: white;
+}
+
+.face {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.eyes {
+  margin-bottom: 20px;
+}
+
+.mouth {
+  font-size: 150px;
+}
